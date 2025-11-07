@@ -1,8 +1,5 @@
 
 # Custom WooCommerce API Plugin
-# made by me & ChatGPT
-
-
 ## 📌 Description
 This plugin adds a REST API for managing WooCommerce products. It allows retrieving product lists, creating new products, and deleting existing ones.
 
